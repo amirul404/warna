@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Sarabun_400_normal.eot); /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBM.eot */
+    src: local('☺'),
+        url(Sarabun_400_normald41d.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBM.eot */
+        url(Sarabun_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBc.woff2 */
+        url(Sarabun_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBE.woff */
+        url(Sarabun_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBJDmFQM.ttf */
+        url(Sarabun_400_normal.svg#Sarabun_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=DtVjJx26TKEr37c9WBA&skey=85fa36ce35adc1df&v=v8#Sarabun */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Sarabun_400_normal.eot); /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBM.eot */
+    src: local('☺'),
+        url(Sarabun_400_normald41d.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBM.eot */
+        url(Sarabun_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBc.woff2 */
+        url(Sarabun_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBE.woff */
+        url(Sarabun_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBJDmFQM.ttf */
+        url(Sarabun_400_normal.svg#Sarabun_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=DtVjJx26TKEr37c9WBA&skey=85fa36ce35adc1df&v=v8#Sarabun */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 100;
+    src: url(Sarabun_100_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_100_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_100_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9YHZJnw.woff2 */
+        url(Sarabun_100_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9YHZJmQ.woff */
+        url(Sarabun_100_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9YHZJmnYO5gg.ttf */
+        url(Sarabun_100_normal-2.html#Sarabun_100_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 200;
+    src: url(Sarabun_200_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_200_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_200_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YNpoulk.woff2 */
+        url(Sarabun_200_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YNpoul8.woff */
+        url(Sarabun_200_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YNpoulwm7ADW.ttf */
+        url(Sarabun_200_normal-2.html#Sarabun_200_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 300;
+    src: url(Sarabun_300_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_300_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_300_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rulk.woff2 */
+        url(Sarabun_300_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rul8.woff */
+        url(Sarabun_300_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rulwm7ADW.ttf */
+        url(Sarabun_300_normal-2.html#Sarabun_300_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    src: url(Sarabun_500_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_500_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_500_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YOZqulk.woff2 */
+        url(Sarabun_500_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YOZqul8.woff */
+        url(Sarabun_500_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YOZqulwm7ADW.ttf */
+        url(Sarabun_500_normal-2.html#Sarabun_500_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 600;
+    src: url(Sarabun_600_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_600_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_600_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YMptulk.woff2 */
+        url(Sarabun_600_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YMptul8.woff */
+        url(Sarabun_600_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YMptulwm7ADW.ttf */
+        url(Sarabun_600_normal-2.html#Sarabun_600_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 700;
+    src: url(Sarabun_700_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_700_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_700_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5sulk.woff2 */
+        url(Sarabun_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5sul8.woff */
+        url(Sarabun_700_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5sulwm7ADW.ttf */
+        url(Sarabun_700_normal-2.html#Sarabun_700_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 800;
+    src: url(Sarabun_800_normal.html); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Sarabun_800_normald41d.html?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Sarabun_800_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvulk.woff2 */
+        url(Sarabun_800_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvul8.woff */
+        url(Sarabun_800_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvulwm7ADW.ttf */
+        url(Sarabun_800_normal-2.html#Sarabun_800_normal) format('svg'); /* {{svg-gf-url}} */
+}
